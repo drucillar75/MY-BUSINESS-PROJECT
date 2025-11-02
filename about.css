@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+nav{
+    text-align: center;
+    background: aqua;
+    padding: 30px;
+}
+a{
+    margin: 50px;
+    font-size: xx-large;
+    text-decoration: none;
+}
+.about{
+    background: lightblue;
+}
+.bridal-card{
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	padding: 30px 10px;
+    height: 350px;
+    background: goldenrod;
+}
+.wed-card{
+     flex-basis: 400px;
+	gap: 20px;
+	padding: 30px 10px;
+	border: 3px solid;
+    
+}
+.dru{
+    width: 300px;
+    height: 250px;
+
+}
+.order input{
+	
+	width: 30%;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	padding: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: grey;
+}
+h1, p, h2, ol, ul{
+    text-align: center;
+}
+.con{
+    background: lightblue;
+}
+nav img{
+    width: 150px;
+    height: 80px;
+}

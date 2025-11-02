@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+body{
+    background-image: url(image/background.webp);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+nav{
+    text-align: center;
+    background: aqua;
+    padding: 30px;
+}
+a{
+    margin: 50px;
+    font-size: x-large;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+h1, h3{
+    padding-top: 90px;   
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+h3{
+    font-size: 25px;
+}
+nav img{
+    width: 150px;
+    height: 80px;
+}
